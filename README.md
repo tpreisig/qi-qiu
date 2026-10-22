@@ -1,24 +1,27 @@
 
-# Koyobushi
+# 气球 1 & 2
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-A clean, playful atmospheric TypeScript + Tailwind + Vite demo with a subtle Japanese-inspired glow.
-This small project creates an interactive button. On odd clicks, the surrounding wrapper transforms into a soft circular balloon with an inner glow. On even clicks, everything resets to a crisp, modern rectangular look.
+Two small projects producing a subtle Zen-inspired glow with a a clean, playful atmospheric TypeScript + Vite demo, once with Tailwincss, and once with pure CSS instead.
+
+This small project creates an interactive button. On odd clicks, the surrounding wrapper transforms into a soft circular balloon with an inner glow. On even clicks, everything resets to a crisp, modern rectangular look. If you're using Tailwindcss or not does not particulary matter for gaining height.
 
 ## Overview
 
-Click away and enjoy the subtle shift between sharp modernity and soft, glowing serenity.
-Simple, satisfying, and just a little bit Japanese. Enyjoy “Koyobushi” (小夜節).
+Click away and enjoy the subtle or non-existent difference between the two.\
+\
+![Screenshot](/气球%201/assets/img1.png)
+![Screenshot](/气球%202/assets/img2.png)
 
-![Screenshot](assets/koyobushi.png)
 
 
 ## Project Structure
 
 ```
-koyobushi/
+气球/
 ├── index.html
 ├── vite.config.ts
 ├── package.json
